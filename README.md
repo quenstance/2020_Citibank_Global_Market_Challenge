@@ -1,4 +1,4 @@
-# Portfolio Optimization Macro
+# Markowitz Efficient Frontier: Portfolio Optimization (Excel VBA)
 
 ### Overview
 
