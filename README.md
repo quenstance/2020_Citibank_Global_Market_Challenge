@@ -58,7 +58,7 @@ This repository contains the original files submitted for the **Citi Global Mark
 
 ### Author
 
-* **Quenstance Lau**
+**Quenstance Lau**
 * **Web Portfolio**: https://quenstance.pages.dev/
 * **LinkedIn**: https://www.linkedin.com/in/quenstance/
 * **GitHub**: https://github.com/quenstance
