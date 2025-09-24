@@ -2,7 +2,7 @@
 
 ### Overview
 
-This **VBA (Visual Basic for Applications)** macro automates a complete **financial analysis workflow** within Excel. It's designed to streamline the process of downloading, organizing, and analyzing financial data to construct an optimized investment portfolio. The project was originally developed for the **Citi Global Markets Challenge 2020** case competition. More details are available [here](https://quenstance.pages.dev/projects/2020-03-citibank-gmc)
+This **VBA (Visual Basic for Applications)** macro automates a complete **financial analysis workflow** within Excel. It's designed to streamline the process of downloading, organizing, and analyzing financial data to construct an optimized investment portfolio. The project was originally developed for the **Citi Global Markets Challenge 2020** case competition. More details are available [here](https://quenstance.pages.dev/projects/2020-03-citibank-gmc).
 
 ---
 
@@ -58,7 +58,7 @@ This repository contains the original files submitted for the **Citi Global Mark
 
 ### Author
 
-* **Quenstance Lau**
+**Quenstance Lau**
 * **Web Portfolio**: https://quenstance.pages.dev/
 * **LinkedIn**: https://www.linkedin.com/in/quenstance/
 * **GitHub**: https://github.com/quenstance
